@@ -62,8 +62,8 @@ Before using this repository, you must have:
 ## Installation
 1. Clone repo
     ```bash
-    git clone https://github.com/yourusername/tiktok-gsr-analysis.git
-    cd tiktok-gsr-analysis
+    git clone https://github.com/bbBerny/tiktok-engagement.git
+    cd tiktok-engagement
     ```
 2.  Create and activate a virtual environment
     ```bash
