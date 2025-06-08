@@ -4,7 +4,6 @@ from scipy.stats import ttest_rel
 from scipy.signal import find_peaks
 from scipy.special import expit
 from sklearn.preprocessing import MinMaxScaler
-import matplotlib.pyplot as plt
 
 # --- 0) Constants & Configuration ---
 part_ids = list(range(1, 28))  # [1, 2, …, 27]
